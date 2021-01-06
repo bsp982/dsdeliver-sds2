@@ -2,7 +2,6 @@ package com.devsuperior.dsdeliver.dto;
 
 import com.devsuperior.dsdeliver.entities.Order;
 import com.devsuperior.dsdeliver.entities.OrderStatus;
-
 import java.io.Serializable;
 import java.time.Instant;
 import java.util.ArrayList;
